@@ -8,6 +8,7 @@
     overflow: scroll;
         width: 80px;
         background-color: black;
+        position: fixed;
 
   }
   .sidebar {
