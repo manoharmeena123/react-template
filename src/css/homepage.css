@@ -1,0 +1,52 @@
+
+body{
+    background-color: #25134D;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 5px 130px;
+
+}
+
+ .icons > div >img{
+width: 35%;
+padding-top: 90px;
+
+}
+.icons>div>p{
+    color: #504182;
+}
+
+.prime{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+  
+}
+.prime>img{
+    width: 30%;
+    padding-top: 40px;
+}
+
+.static{
+    color: white;
+
+}
+.static>.btn{
+padding: 10px 60px;
+background-color: rgb(223,16,226);
+border-radius: 1ch;
+border: none;
+ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;
+}
+
+.footer{
+    margin: auto;
+    color: white;
+    padding: 5px;
+ align-items: center;
+    background-color: #140D3C;
+}
